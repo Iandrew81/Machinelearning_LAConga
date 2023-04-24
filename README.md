@@ -1,38 +1,42 @@
-# INTRODUCCIÓN AL ANÁLISIS DE DATOS. LA-CoNGA
+# Advanced topics in data science. LA-CoNGA
 
-## Bienvenidos!
+This repository contains lectures and workshops on various machine learning topics. The topics covered in this repository include:
 
+## Supervised Learning
 
-<img src="https://gitlab.com/bivl2ab/academico/cursos-uis/la-conga-dataanalysis/la-conga-da-student/-/raw/master/imgs/banner_DA.png"  width="1000px" height="200px">
-
-
-## Colaboratory (Google)
-
-Vamos a utilizar la plataforma de google para editar, compartir y correr notebooks: [**Colaboratory**](https://colab.research.google.com/notebooks/welcome.ipynb)
-
-- Necesitas una cuenta de gmail y luego entras a drive
-- Colaboratory es un entorno de notebook de Jupyter gratuito que no requiere configuración y se ejecuta completamente en la nube.
-    - Usaremos parte de la infraestructura de computo de google... gratis! (máximo procesos de 8 horas)
-- Con Colaboratory, puedes escribir y ejecutar código, guardar y compartir análisis, y acceder a recursos informáticos potentes, todo gratis en tu navegador.
-- También puedes usar los recursos de computador Local.
+    Naive Gaussian Bayes
+    Classification
+    Regression
+    Cross-validation
 
 
-## Talleres (Problemsets)
+## Unsupervised Learning
 
-Los talleres pretenden ser una herramienta practica para afianzar los conocimientos desarrollados durante las clases. En general se presentan como un conjunto de ejercicios que serán desarrollados **individualmente** por los estudiantes. Cada taller esta escrito como un notebook para la validación automática. Se pueden hacer tantos intentos como se quieran y unicamente la última respuesta será tomada en cuenta. Cada uno de los talleres se desarrollará  dentro de las fechas establecidas en el cronograma.
+    K-means Clustering
+
+## Ensemble Methods
+
+    Decision Tree
+    Random Forest
+    Support Vector Machine (SVM)
 
 
+## Deep Learning
 
-## Calendario y plazos
+    Gradient Descent Method
+    Deep Neural Network
+    Backpropagation
+    Convolutional Neural Network (CNN)
+    Recurrent Neural Network (RNN)
 
-                        SESSION 1                       SESSION 2
+## Model Evaluation
 
+    Cross-Validation
+    Confusion Matrix
+    Precision and Recall
+    F1 Score
 
-     W01 jun15-jun17    Intro-ML [Pres]                 Intro ML-class [N1]
-     W02 jun22-jun24    ML Clas metric [N2]             Machine Learning Methods [N3]
-     W03 jun29-jul01    Francisco Gómez (Mat. UNAL)     Juan David Garcia- (Med UNAL)
-     W04 jul06-jul08    ML Regression                   ML Regression
-     W05 jul13-jul15    DL-intro-Grad                   DL-intro-forward
-     W06 jul20-jul22    DL-intro-Back                   DL-DNN-aplications
-     W07 jul27-jul29    DL-DNN-aplications              DL-DNN-aplications
-     W08 ago03-ago05    José Ocariz-(projects)          José Ocariz-(projects)
+Each topic includes notes, programming exercises, and sample code. These materials were created as part of the Advanced Topics in Data Science course at LAConga 2022.
+
+## Workshops
+In the "Talleres" folder, you'll find three workshops that were carried out as part of the final project of the course that cover most of the material presented in the notes.
